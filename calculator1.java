@@ -1,5 +1,5 @@
 //no parameter no return type
-class calculator{
+class calculator1{
 	
 	public static void add()
 	{
@@ -30,9 +30,9 @@ class calculator{
 	}
 	
 	public static void main(String []args){
-	calculator.add();
-	calculator.sub();
-	calculator.mul();
-	calculator.div();
+	calculator1.add();
+	calculator1.sub();
+	calculator1.mul();
+	calculator1.div();
 	}
 }
